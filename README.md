@@ -13,7 +13,7 @@ This source is unfinished. It contains no recovery environment, which means your
 2. Clone this branch  
 	```$```
 3. Export tools to PATH  
-	```$ export CROSS_COMPILE=aarch64-lunux-gnu-```  
+	```$ export CROSS_COMPILE=aarch64-linux-gnu-```  
 	```$ export ARCH=arm64```
 4. Prepare and build headers  
 	```$ make distclean```  
