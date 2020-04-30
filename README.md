@@ -9,7 +9,7 @@ This source is unfinished. It contains no recovery environment, which means your
 
 ## Build instructions
 1. Prepare the build environment  
-	```$ sudo apt-get install build-essential kernel-package libncurses5-dev bzip2```
+	```$ sudo apt-get install build-essential kernel-package libncurses5-dev bzip2 binutils-aarch64-linux-gnu```
 2. Clone this branch  
 	```$```
 3. Export tools to PATH  
